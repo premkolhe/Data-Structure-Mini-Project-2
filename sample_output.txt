@@ -1,0 +1,22 @@
+Command used: python maze_dfs.py --seed 7
+
+MAZE GENERATION USING DEPTH-FIRST SEARCH
+Enter maze dimensions. Press Enter to use the defaults.
+
+Number of rows (2-40) [10]: 5
+Number of columns (2-40) [20]: 8
+
+Generated a 5 x 8 maze using randomized DFS.
+Entrance: top-left | Exit: bottom-right
+
++   +---+---+---+---+---+---+---+
+|   |                       |   |
++   +---+---+   +---+---+   +   +
+|           |   |       |   |   |
++---+---+   +   +   +   +   +   +
+|       |       |   |   |       |
++   +   +---+---+   +---+---+   +
+|   |   |                   |   |
++   +---+   +---+---+---+   +   +
+|                       |       |
++---+---+---+---+---+---+---+   +
